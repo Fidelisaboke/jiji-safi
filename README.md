@@ -56,8 +56,9 @@ The system implemented measures temperature, humidity, and air quality using DHT
 
 ## System Architecture
 The diagram below shows a high-level system architecture of the IoT system implemented.
-It represent a simple client-server interaction, with the client being the end-device accessing the dashboard,
+It represents a simple client-server interaction, with the client being the end-device accessing the dashboard,
 which is hosted by the ESP32. Wi-Fi communication technology was implemented for the system.
+
 ![Jiji Safi System Architecture](images/architecture.png)
 
 ## Acknowledgements
