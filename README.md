@@ -36,7 +36,7 @@ The system implemented measures temperature, humidity, and air quality using DHT
 2. Open the `.ino` file in Arduino IDE.
 
 3. Update the Wi-Fi credentials in the code:
-   ```bash
+   ```cpp
    // WiFi credentials
    const char* ssid = "Wokwi-GUEST"; // Change to your SSID
    const char* password = ""; // Set to your Wi-Fi Password
