@@ -60,6 +60,7 @@ It represents a simple client-server interaction, with the client being the end-
 which is hosted by the ESP32. Wi-Fi communication technology was implemented for the system.
 
 ![Jiji Safi System Architecture](images/architecture.png)
+
 <em>Figure 1: Jiji Safi System Architecture</em>
 
 ## Acknowledgements
