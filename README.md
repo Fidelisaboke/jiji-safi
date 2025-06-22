@@ -29,7 +29,7 @@ The system implemented measures temperature, humidity, and air quality using DHT
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/jiji-safi.git
+   git clone https://github.com/Fidelisaboke/jiji-safi.git
    cd jiji-safi
    ```
 
@@ -60,6 +60,7 @@ It represents a simple client-server interaction, with the client being the end-
 which is hosted by the ESP32. Wi-Fi communication technology was implemented for the system.
 
 ![Jiji Safi System Architecture](images/architecture.png)
+<em>Figure 1: Jiji Safi System Architecture</em>
 
 ## Acknowledgements
 - [Adafruit](https://www.adafruit.com/): For the sensor and OLED display libraries.
