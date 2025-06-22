@@ -51,7 +51,7 @@ The system implemented measures temperature, humidity, and air quality using DHT
 
 ## Basic Usage
 - Once the sketch has been uploaded, the ESP32 attempts to connect to your Wi-Fi network.
-- The Serial Monitor shows the Wi-Fi IP address for the web server. Access the web dashboard at http://<your-esp32-ip>/
+- The Serial Monitor shows the Wi-Fi IP address for the web server. Access the web dashboard using the IP address provided.
 - OLED displays live data, as the web dashboard updates in real-time as well.
 
 ## System Architecture
